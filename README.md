@@ -1,1 +1,1 @@
-PRDL
+Predictive And Descriptive Language (PRDL)
